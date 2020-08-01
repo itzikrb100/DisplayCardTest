@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_top">10dp</dimen>
+    <dimen name="margin_icon_top">70dp</dimen>
+    <dimen name="margin">5dp</dimen>
+    <dimen name="text_size">20sp</dimen>
+    <dimen name="div_h">2dp</dimen>
+    <dimen name="w_icon">150dp</dimen>
+    <dimen name="h_icon">150dp</dimen>
+</resources>
